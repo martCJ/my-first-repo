@@ -1,0 +1,231 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="description" content="Calebs html practice">
+        <meta name="keywords" content="html, css, Caleb">
+        <meta name="author" content="Caleb Martin">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>practice2</title>
+<link rel="icon" type="image/x-icon" href="ember.ico">
+
+<style>
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: cadetblue;
+    }
+
+    li a {
+        display: block;
+        color: wheat;
+        text-align: center;
+        padding: 16px;
+        text-decoration: none;
+    }
+
+    li a:hover {
+        background-color: #111111;
+    }
+
+    body {
+        background-color: rgb(159, 230, 230);
+    }
+
+    table {
+        font-family: Arial, Helvetica, sans-serif;
+        border-collapse: separate;
+        width: 100%;
+    }
+
+    td,
+    th {
+        border: 1px solid #000000;
+        border-style: solid;
+        text-align: left;
+        padding: 8px;
+        background-color: rgb(147, 197, 90);
+        border-radius: 4px;
+        border-spacing: 20px;
+        font-size: large;
+    }
+
+    tr:hover {
+        background-color: rgb(147, 228, 228);
+    }
+
+    .secondtable th {
+        background-color: rgb(179, 35, 54);
+    }
+
+    .secondtable td {
+        background-color: aquamarine;
+    }
+
+    td:hover {
+        background-color: rgb(171, 241, 241);
+    }
+
+    #bro {
+        font-size: 200%;
+        color: honeydew;
+    }
+
+    .bob {
+        display: flex;
+        justify-content: space-around;
+        max-width: 250px;
+
+    }
+    #edge {
+        border: dashed;
+        color: #000000;
+        background-color: #b9b9b9bd;
+    }
+</style>
+    </head>
+<body>
+    <h1>Welcome to practice2 page!</h1>
+    <div id="edge">
+        <h1 style="text-align: center;">Navigation Menu</h1>
+        <h2 style="text-align: center;"><i><small>Click the highlighted headers to go to other pages</small></i></h2>
+        <h3 style="text-align: center;"><small>(preview each page in the frames below)</small></h3>
+        <ul style="display: flex; justify-content:space-around;">
+            <li><a href="practice tables">Tables</a></li>
+            <li><a href="Library">Library</a></li>
+            <li><a href="xtra-practice">Practice</a></li>
+            <li><a href="Colorado">Colorado</a></li>
+            <li><a href="bookmark">bookmark</a></li>
+        </ul>
+        <pre style="display: flex; justify-content:space-around;">
+    <iframe class="bob" src="practice tables"></iframe>
+    <iframe class="bob" src="Library"></iframe>
+    <iframe class="bob" src="xtra-practice"></iframe>
+    <iframe class="bob" src="Colorado"></iframe>
+    <iframe class="bob" src="bookmark"></iframe>
+    </pre>
+    </div>
+    <br>
+    <h1 style="font-size: 200%;"> Html styles practice </h1>
+    <h1 style="background-color: cadetblue;"><i>Ad astra per alas porci</i></h1>
+    <p style="background-color: tomato;"> here is a header of a different color </p>
+    <h2
+        style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
+        new font here </h2>
+    <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;"> second new font here </p>
+    <p style="font-size: 175%;"> change font size here </p>
+    <p style="text-align: center;"> centered paragraph here </p>
+    <b> bold text here </b>
+    <br>
+    <strong> strong format for important info here </strong>
+    <br>
+    <i> this <del>mysterious</del> text here is in italics </i>
+    <br>
+    <small> this is <mark>some</mark> smaller text with one word highlighted </small>
+    <br>
+    <p>My favorite color is <del>blue</del><i><ins>red</ins></i></i>.</p>
+    <br>
+    <p>Here is a quote from wikipedia</p>
+    <blockquote cite="https://en.wikipedia.org/wiki/Library">A library is a collection of books, and possibly other
+        materials and media, that is accessible for use by its members and members of allied institutions. Libraries
+        provide physical (hard copies) or digital (soft copies) materials, and may be a physical location, a virtual
+        space, or both. A library's collection normally includes printed materials which can be borrowed, and usually
+        also includes a reference section of publications which may only be utilized inside the premises.</blockquote>
+    <p> The <abbr title="Secret Sweeping Attack Force"> SSAF </abbr>was founded in the last 20 years</p>
+    <img src="images/forestpic.jpg" alt="Clipboard image" style="width: 300px;">
+    <h1 style="background-color:Tomato;">Tomato</h1>
+    <h1 style="background-color:Orange;">Orange</h1>
+    <h1 style="background-color:rgb(166, 238, 238);" style="border:2px solid Tomato;">Bright</h1>
+    <h2 id="bro">Brothers</h2>
+    <table>
+        <tr>
+            <th>Name</th>
+            <th style="width:10%">Age</th>
+            <th>Skills</th>
+        </tr>
+        <tr>
+            <td>Caden</td>
+            <td>25</td>
+            <td>Academics</td>
+        </tr>
+        <tr>
+            <td>Caleb</td>
+            <td>23</td>
+            <td>People</td>
+        </tr>
+        <tr>
+            <td>Jacob</td>
+            <td>21</td>
+            <td>Is a father</td>
+        </tr>
+        <tr>
+            <td>Jaxon</td>
+            <td>20</td>
+            <td>Funny</td>
+        </tr>
+        <tr>
+            <td>Elijah</td>
+            <td>18</td>
+            <td>Sports and people</td>
+        </tr>
+        <tr>
+            <td>Luke</td>
+            <td>16</td>
+            <td>Sports</td>
+        </tr>
+        <tr>
+            <td>Zachary</td>
+            <td>13</td>
+            <td>Reading</td>
+        </tr>
+    </table>
+    <caption>Bros table 2</caption>
+    <table class="secondtable">
+        <tr>
+            <th>Bro 1</th>
+            <td>Caden</td>
+            <td>25</td>
+            <td>Academics</td>
+        </tr>
+        <tr>
+            <th>Bro 2</th>
+            <td>Caleb</td>
+            <td>23</td>
+            <td>People</td>
+        </tr>
+        <tr>
+            <th>Bro 3</th>
+            <td>Jacob</td>
+            <td>21</td>
+            <td>Is a father</td>
+        </tr>
+        <tr>
+            <th>Bro 4</th>
+            <td>Jaxon</td>
+            <td>20</td>
+            <td>Funny</td>
+        </tr>
+        <tr>
+            <th>Bro 5</th>
+            <td>Elijah</td>
+            <td>18</td>
+            <td>Sports and people</td>
+        </tr>
+        <tr>
+            <th>Bro 6</th>
+            <td>Luke</td>
+            <td>16</td>
+            <td>Sports</td>
+        </tr>
+        <tr>
+            <th>Bro 7</th>
+            <td>Zachary</td>
+            <td>13</td>
+            <td>Reading</td>
+        </tr>
+    </table>
+</body>
+
+</html>
