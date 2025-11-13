@@ -3,15 +3,17 @@
 ## This is to practice markdown.
 
 -this is my attempt to imbed image using one already downloaded in my html folder.
-![here is alt text to describe the image](~/myhtml/images/sky.jpg)
+![here is alt text to describe the image](/myhtml/images/sky.jpg)
 
 -this is attempt 2 to imbed an image
 ![alt text here]()
 <html>
-<img title="title" alt="thisalttext" src"~/myhtml/images/forestpic.jpg">
+<img title="title" alt="thisalttext" src"/myhtml/images/forestpic.jpg">
 </html>
 
 [![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")](https://en.wikipedia.org/wiki/Bagworm_moth)
+
+Link works fine, but image still won't show.
 
 **just seeing if all this works now**
 
