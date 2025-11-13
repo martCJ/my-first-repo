@@ -13,10 +13,8 @@
 for whatever reason this one finally works!
 
 <html>
-<img title="title" alt="thisalttext" src"/myhtml/images/forestpic.jpg">
+<img title="yellow" alt="thisalttext" src"/myhtml/images/forestpic.jpg" width="200px" height="200px">
 </html>
-
-[![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")](https://en.wikipedia.org/wiki/Bagworm_moth)
 
 Link works fine, but image still won't show.
 
