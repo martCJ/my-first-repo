@@ -6,12 +6,16 @@
 ![here is alt text to describe the image](~/myhtml/images/sky.jpg)
 
 -this is attempt 2 to imbed an image
-![alt text here](https://kottke.org/tag/architecture)
+[alt text here](https://kottke.org/tag/architecture)
 
 **just seeing if all this works now**
+
 *just seeing if all this works now*
+
 just seeing if all this works now
+
 > blockquote here. I like the way they look
+
 ### Unordered list here:
 -list item 1 
 -list item 2
