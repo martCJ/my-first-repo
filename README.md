@@ -2,11 +2,14 @@
 
 ## This is to practice markdown.
 
--this is my attempt to imbed image using one already downloaded in my html folder.
+-attempt 1 image imbed
+
 ![here is alt text to describe the image](/myhtml/images/sky.jpg)
 
 -this is attempt 2 to imbed an image
-![alt text here]()
+
+![alt text here](https://images.pexels.com/photos/31542399/pexels-photo-31542399.jpeg)
+
 <html>
 <img title="title" alt="thisalttext" src"/myhtml/images/forestpic.jpg">
 </html>
