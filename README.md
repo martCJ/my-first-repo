@@ -8,9 +8,10 @@
 -this is attempt 2 to imbed an image
 ![alt text here]()
 <html>
-<img title="title" alt="thisalttext" src(~/myhtml/images/forestpic.jpg)>
+<img title="title" alt="thisalttext" src"~/myhtml/images/forestpic.jpg">
 </html>
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+
+[![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")](https://en.wikipedia.org/wiki/Bagworm_moth)
 
 **just seeing if all this works now**
 
