@@ -6,8 +6,7 @@
 ![here is alt text to describe the image](~/myhtml/images/sky.jpg)
 
 -this is attempt 2 to imbed an image
-[alt text here](<img width="2380" height="1723" alt="image" src="https://github.com/user-attachments/assets/122b8364-337f-4dfe-9b5e-49b498153142" />
-)
+![alt text here](<img width="2380" height="1723" alt="image" src="https://github.com/user-attachments/assets/122b8364-337f-4dfe-9b5e-49b498153142" />)
 
 **just seeing if all this works now**
 
