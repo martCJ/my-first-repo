@@ -8,7 +8,9 @@
 
 -this is attempt 2 to imbed an image
 
-![alt text here](https://images.pexels.com/photos/31542399/pexels-photo-31542399.jpeg)
+[![alt text here](https://images.pexels.com/photos/31542399/pexels-photo-31542399.jpeg)](https://en.wikipedia.org/wiki/Bagworm_moth)
+
+for whatever reason this one finally works!
 
 <html>
 <img title="title" alt="thisalttext" src"/myhtml/images/forestpic.jpg">
