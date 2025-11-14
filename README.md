@@ -8,9 +8,11 @@
 
 -this is attempt 2 to imbed an image
 
+-image works. click on image to visit article about the bagworm moth.
+
 [![alt text here](https://images.pexels.com/photos/31542399/pexels-photo-31542399.jpeg)](https://en.wikipedia.org/wiki/Bagworm_moth)
 
-for whatever reason this one finally works!
+Success!
 
 <html>
 <img title="yellow" alt="thisalttext" src"/myhtml/images/forestpic.jpg" width="200px" height="200px">
