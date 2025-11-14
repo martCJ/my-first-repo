@@ -1,10 +1,10 @@
-# my-first-repo
+# my-first-markdown
 
 ## This is to practice markdown.
 
 -attempt 1 image imbed
 
-![here is alt text to describe the image](/myhtml/images/sky.jpg)
+![alt text to describe the image](/myhtml/images/sky.jpg)
 
 -this is attempt 2 to imbed an image
 
